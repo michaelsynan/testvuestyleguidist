@@ -14,7 +14,9 @@
     "nuxt": "^3.3.1",
     "postcss": "^8.4.21",
     "unplugin-icons": "^0.15.3",
-    "unplugin-vue-components": "^0.24.1"
+    "unplugin-vue-components": "^0.24.1",
+    "vue-styleguidist": "^4.67.0",
+    "webpack": "^5.79.0"
   },
   "overrides": {
     "vue": "latest"
